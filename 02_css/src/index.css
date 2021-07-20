@@ -1,0 +1,9 @@
+@import './style.css';
+body{
+    background-color: gray;
+    height: 200px;
+    color: #12345678;
+}
+.user{
+    transition: 1s all;
+}
